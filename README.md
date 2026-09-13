@@ -7,7 +7,7 @@ I mostly work on **backend stuff**, with a particular interest in **databases an
 
 Currently, I'm exploring more of **computer vision** and learning **cryptography and steganography** for a cool new project.
 
-Most of my current repos are still experimental and a work in progress, as I'm still learning, experimenting, and figuring out GitHub along the way.
+I have quite a few projects sitting locally, so I'm slowly going through them, cleaning them up, and documenting the ones worth putting here.
 
 ---
 
