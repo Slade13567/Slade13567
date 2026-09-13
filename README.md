@@ -7,8 +7,6 @@ I mostly work on **backend stuff**, with a particular interest in **databases an
 
 Currently, I'm exploring more of **computer vision** and learning **cryptography and steganography** for a cool new project.
 
-I have quite a few projects sitting locally, so I'm slowly going through them, cleaning them up, and documenting the ones worth putting here.
-
 ---
 
 ### My main tech stack:
